@@ -1,83 +1,75 @@
-[01:10:33] [main/INFO]: ModLauncher running: args [--username, MaYeX, --version, sv, --gameDir, C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv, --assetsDir, C:\Users\alcal\AppData\Roaming\.minecraft\assets, --assetIndex, 5, --uuid, b42e596616d74b49b4b699b3aa92cedb, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 47.2.6, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[01:10:33] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Windows 10 arch amd64 version 10.0
-[01:10:34] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
-[01:10:34] [main/INFO]: Trying GL version 4.6
-[01:10:34] [main/INFO]: Requested GL version 4.6 got version 4.6
-[01:10:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/alcal/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
-[01:10:34] [pool-2-thread-1/INFO]: GL info: Radeon RX550/550 Series GL version 4.6.0 Core Profile Context 24.1.1.231127, ATI Technologies Inc.
-[01:10:35] [main/INFO]: Found mod file balm-forge-1.20.1-7.2.2.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file betterfpsdist-1.20.1-4.4.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file bettervillage-forge-1.20.1-3.2.0.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file BiomesOPlenty-1.20.1-18.0.0.592.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file BOMD-Forge-1.20.1-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.1.8.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file born_in_chaos_[Forge]1.20.1_1.2.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file carryon-forge-1.20.1-2.1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file CerbonsAPI-Forge-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file Chunk-Pregenerator-1.20-4.4.3.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file cloth-config-11.1.118-forge.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file Clumps-forge-1.20.1-12.0.0.4.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file collective-1.20.1-7.57.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file connectedglass-1.1.11-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file Controlling-forge-1.20.1-12.0.2.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file coroutil-forge-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file Cucumber-1.20.1-7.0.8.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file cupboard-1.20.1-2.6.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file curios-forge-5.9.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file Dungeon+Crawl-1.20.1-2.3.14.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file dungeons_1.17_mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file elevatorid-1.20.1-lex-1.9.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file FpsReducer2-forge-1.20-2.5.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file framework-forge-1.20.1-0.6.27.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.4.4.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file goblintraders-forge-1.20.1-1.9.3.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file invhud.forge.1.20.1-3.4.18.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file Jade-1.20.1-forge-11.9.1.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file jei-1.20.1-forge-15.3.0.1.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file journeymap-1.20.1-5.9.21-forge.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file L_Enders_Cataclysm-1.99.2 -1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file libraryferret-forge-1.20.1-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file lionfishapi-1.8.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file lucky-block-forge-1.20.1-13.0.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file matc-1.6.0.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20-2.25.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file MysticalAdaptations-1.20.1-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file MysticalAgradditions-1.20.1-7.0.3.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file MysticalAgriculture-1.20.1-7.0.11.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file Patchouli-1.20.1-84-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file rebindnarrator-forge-1.20.x-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file replantingcrops-1.20.1-5.3.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file Searchables-forge-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.20.3.1034.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file sophisticatedcore-1.20.1-0.6.3.553.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.4.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file tombstone-1.20.1-8.6.5.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file twilightforest-1.20.1-4.3.2145-universal.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file waystones-forge-1.20-14.1.3.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/INFO]: Found mod file zombieawareness-1.20.1-1.13.1.jar of type MOD with provider {mods folder locator at C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv\mods}
-[01:10:35] [main/WARN]: Mod file C:\Users\alcal\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.6\fmlcore-1.20.1-47.2.6.jar is missing mods.toml file
-[01:10:35] [main/WARN]: Mod file C:\Users\alcal\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.6\javafmllanguage-1.20.1-47.2.6.jar is missing mods.toml file
-[01:10:35] [main/WARN]: Mod file C:\Users\alcal\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.6\lowcodelanguage-1.20.1-47.2.6.jar is missing mods.toml file
-[01:10:35] [main/WARN]: Mod file C:\Users\alcal\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.6\mclanguage-1.20.1-47.2.6.jar is missing mods.toml file
-[01:10:35] [main/INFO]: Found mod file fmlcore-1.20.1-47.2.6.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4c03a37
-[01:10:35] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.2.6.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4c03a37
-[01:10:35] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.2.6.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4c03a37
-[01:10:35] [main/INFO]: Found mod file mclanguage-1.20.1-47.2.6.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4c03a37
-[01:10:35] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4c03a37
-[01:10:35] [main/INFO]: Found mod file forge-1.20.1-47.2.6-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4c03a37
-[01:10:35] [main/INFO]: Found 3 dependencies adding them to mods collection
-[01:10:35] [main/INFO]: Found mod file mixinextras-forge-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@365a6a43
-[01:10:35] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@365a6a43
-[01:10:35] [main/INFO]: Found mod file MixinExtras-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@365a6a43
-[01:10:35] [main/ERROR]: Missing or unsupported mandatory dependencies:
-	Mod ID: 'fusion', Requested by: 'connectedglass', Expected range: '[1.1.0,)', Actual version: '[MISSING]'
+[13May2024 04:25:29.575] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.6, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[13May2024 04:25:29.578] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.2 by Microsoft; OS Linux arch amd64 version 6.5.0-1019-azure
+[13May2024 04:25:30.134] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13May2024 04:25:30.194] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13May2024 04:25:30.531] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.6/fmlcore-1.20.1-47.2.6.jar is missing mods.toml file
+[13May2024 04:25:30.532] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.6/javafmllanguage-1.20.1-47.2.6.jar is missing mods.toml file
+[13May2024 04:25:30.533] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.6/lowcodelanguage-1.20.1-47.2.6.jar is missing mods.toml file
+[13May2024 04:25:30.534] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.6/mclanguage-1.20.1-47.2.6.jar is missing mods.toml file
+[13May2024 04:25:30.679] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[13May2024 04:25:30.796] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
 	Mod ID: 'supermartijn642corelib', Requested by: 'connectedglass', Expected range: '[1.1.0,1.2.0)', Actual version: '[MISSING]'
-[01:10:39] [main/INFO]: Compatibility level set to JAVA_17
-[01:10:39] [main/INFO]: Launching target 'forgeclient' with arguments [--version, sv, --gameDir, C:\Users\alcal\AppData\Roaming\.minecraft\versions\sv, --assetsDir, C:\Users\alcal\AppData\Roaming\.minecraft\assets, --uuid, b42e596616d74b49b4b699b3aa92cedb, --username, MaYeX, --assetIndex, 5, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530]
-[01:10:40] [main/INFO]: OptiFine was NOT detected.
-[01:10:40] [main/INFO]: OptiFabric was NOT detected.
-[01:10:40] [main/WARN]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:10:40] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:10:41] [main/INFO]: bre2el.fpsreducer.mixin.RenderSystemMixin will be applied.
-[01:10:41] [main/INFO]: bre2el.fpsreducer.mixin.WindowMixin will NOT be applied because OptiFine was NOT detected.
+[13May2024 04:25:32.611] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13May2024 04:25:32.701] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[13May2024 04:25:32.803] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[13May2024 04:25:32.804] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[13May2024 04:25:32.816] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[13May2024 04:25:32.821] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[13May2024 04:25:38.951] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §econnectedglass§r requires §6supermartijn642corelib§r §o1.1.0 or above, and below 1.2.0§r
+§7Currently, §6supermartijn642corelib§r§7 is §o§nnot installed
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.20.1-47.2.6.jar%23206!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:722) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:96) ~[fmlcore-1.20.1-47.2.6.jar%23206!/:?]
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:128) ~[fmlcore-1.20.1-47.2.6.jar%23206!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.2.6-universal.jar%23210!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.6.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.6.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.6.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[13May2024 04:25:39.022] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2024-05-13_04.25.39-fml.txt
+[13May2024 04:25:39.027] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Mod §econnectedglass§r requires §6supermartijn642corelib§r §o1.1.0 or above, and below 1.2.0§r
+§7Currently, §6supermartijn642corelib§r§7 is §o§nnot installed
+]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:149) ~[fmlcore-1.20.1-47.2.6.jar%23206!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.2.6-universal.jar%23210!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.6.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.6.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.6.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
