@@ -1,6 +1,4 @@
-
 ["Perfect Plushies Common Config"]
-
 	["Perfect Plushies Common Config"."Wandering Plushie Trader Config"]
 		#How long to wait to try and spawn after server starts
 		#Range: 0 ~ 10000
@@ -26,4 +24,3 @@
 		#On spawn Failure, how many times to re-attempt spawning(basically if it tries spawning where it can't spawn, try again somewhere else) 
 		#Range: 0 ~ 100
 		trader-number-of-spawn-attempts = 10
-

@@ -1,5 +1,5 @@
 {
-  "broadcast_errors": false,
+  "broadcast_errors": true,
   "handle_ticking_entities": true,
   "handle_ticking_block_entities": true,
   "handle_ticking_block_states": true,
