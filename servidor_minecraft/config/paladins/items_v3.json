@@ -3,22 +3,46 @@
     "iron_claymore": {
       "attack_damage": 8.0,
       "attack_speed": -3.0,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "iron_mace": {
       "attack_damage": 6.0,
       "attack_speed": -2.8,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "diamond_claymore": {
       "attack_damage": 9.5,
       "attack_speed": -3.0,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "golden_mace": {
       "attack_damage": 5.0,
       "attack_speed": -2.8,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "netherite_holy_wand": {
       "attack_damage": 2.0,
@@ -34,32 +58,68 @@
     "wooden_great_hammer": {
       "attack_damage": 5.0,
       "attack_speed": -3.2,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "stone_great_hammer": {
       "attack_damage": 8.0,
       "attack_speed": -3.2,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "diamond_mace": {
       "attack_damage": 8.0,
       "attack_speed": -2.8,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "iron_great_hammer": {
       "attack_damage": 10.0,
       "attack_speed": -3.2,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "golden_great_hammer": {
       "attack_damage": 10.0,
       "attack_speed": -3.2,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "netherite_claymore": {
       "attack_damage": 11.0,
       "attack_speed": -3.0,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "diamond_holy_staff": {
       "attack_damage": 4.0,
@@ -75,7 +135,13 @@
     "golden_claymore": {
       "attack_damage": 5.0,
       "attack_speed": -3.0,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "holy_staff": {
       "attack_damage": 4.0,
@@ -102,12 +168,24 @@
     "stone_claymore": {
       "attack_damage": 7.5,
       "attack_speed": -3.0,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "diamond_great_hammer": {
       "attack_damage": 11.0,
       "attack_speed": -3.2,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "netherite_holy_staff": {
       "attack_damage": 4.0,
@@ -134,7 +212,13 @@
     "netherite_great_hammer": {
       "attack_damage": 13.0,
       "attack_speed": -3.2,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     },
     "diamond_holy_wand": {
       "attack_damage": 2.0,
@@ -150,7 +234,13 @@
     "netherite_mace": {
       "attack_damage": 9.0,
       "attack_speed": -2.8,
-      "attributes": []
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
     }
   },
   "armor_sets": {

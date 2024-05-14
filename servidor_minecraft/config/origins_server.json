@@ -19,21 +19,6 @@
       "enabled": true,
       "digs_dnd_origins:variant_human/feats/sentinel": true
     },
-    "paper:paper": {
-      "enabled": true,
-      "origins:slow_falling": true,
-      "paper:climbing": true,
-      "paper:fall_immunity": true,
-      "paper:six_hearts": true,
-      "paper:elytra": true,
-      "paper:fresh_air": true,
-      "paper:recipe_paper": true,
-      "paper:tiny_paper": true,
-      "paper:paper_bandage": true,
-      "paper:nimble": true,
-      "paper:water_exhaust": true,
-      "paper:starting_gear": true
-    },
     "origins-classes:warrior": {
       "enabled": true,
       "origins-classes:more_attack_damage": true,
@@ -190,6 +175,29 @@
     "digs_dnd_origins:half-elf/skills/stealth": {
       "enabled": true,
       "digs_dnd_origins:half-elf/skills/stealth": true
+    },
+    "fluffy:baaa": {
+      "enabled": true,
+      "fluffy:shearin_yaself": true,
+      "fluffy:stuffduringshear": true,
+      "fluffy:eat_up": true,
+      "fluffy:fluff_down": true,
+      "fluffy:beingsheared": true,
+      "fluffy:gettinsheared": true,
+      "fluffy:getshearedeffects": true,
+      "fluffy:current_color": true,
+      "fluffy:color_set": true,
+      "fluffy:currently_fluffy": true,
+      "fluffy:color_check": true,
+      "fluffy:soft_landing": true,
+      "fluffy:vegetarianism": true,
+      "fluffy:rainbowgapple": true,
+      "fluffy:rainbowgodapple": true,
+      "fluffy:grassblock": true,
+      "fluffy:grass": true,
+      "fluffy:tallgrass": true,
+      "fluffy:fern": true,
+      "fluffy:largefern": true
     },
     "digs_dnd_origins:half-elf/skills/athletics": {
       "enabled": true,
@@ -426,6 +434,32 @@
       "enabled": true,
       "digs_dnd_origins:variant_human/feats/heavily_armored": true
     },
+    "origins_vampire:vampire": {
+      "enabled": true,
+      "origins_vampire:bat_form": true,
+      "origins_vampire:diet": true,
+      "origins_vampire:health_regeneration": true,
+      "origins_vampire:undead": true,
+      "origins_vampire:weakness/wooden_tools": true,
+      "origins_vampire:blood/drink/ender_dragon": true
+    },
+    "dolphling:dolphling": {
+      "enabled": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:no_shield": true,
+      "origins:aquatic": true,
+      "origins:more_exhaustion": true,
+      "dolphling:water_breathing": true,
+      "dolphling:fishy_diet": true,
+      "dolphling:fishy_diet_buffs": true,
+      "dolphling:weak": true,
+      "dolphling:breaching": true,
+      "dolphling:echolocation": true,
+      "dolphling:dehydration": true,
+      "dolphling:water_vision": true
+    },
     "digs_dnd_origins:half-elf/skills/sleight_of_hand": {
       "enabled": true,
       "digs_dnd_origins:half-elf/skills/sleight_of_hand": true
@@ -451,9 +485,32 @@
       "digs_dnd_origins:dragonborn/blue/scales": true,
       "origins:more_exhaustion": true
     },
+    "cosmo:mage": {
+      "enabled": true,
+      "cosmo:boom": true,
+      "cosmo:keep": true,
+      "origins:fragile": true,
+      "origins:tailwind": true,
+      "origins:sprint_jump": true,
+      "cosmo:gun": true,
+      "cosmo:spawn": true,
+      "origins:cat_vision": true,
+      "cosmo:flame": true,
+      "origins:slow_falling": true
+    },
     "digs_dnd_origins:variant_human/feats/mobile": {
       "enabled": true,
       "digs_dnd_origins:variant_human/feats/mobile": true
+    },
+    "origins_vampire:vampire_lord": {
+      "enabled": true,
+      "origins_vampire:flight/wing_flap": true,
+      "origins_vampire:bat_form": true,
+      "origins_vampire:diet": true,
+      "origins_vampire:health_regeneration": true,
+      "origins_vampire:hunters_instinct": true,
+      "origins_vampire:undead": true,
+      "origins_vampire:weakness/wooden_tools": true
     },
     "digs_dnd_origins:dragonborn/black": {
       "enabled": true,
@@ -598,6 +655,32 @@
       "aegis:diet/raw_copper": true,
       "aegis:ui/breath_bar": true
     },
+    "foxboi_two:foxboi_two": {
+      "enabled": true,
+      "foxboi_two:pounce": true,
+      "foxboi_two:pounce_aerialdamage": true,
+      "foxboi_two:pounce_falling": true,
+      "foxboi_two:phantomize": true,
+      "foxboi_two:phasing": true,
+      "foxboi_two:phasing_jump": true,
+      "foxboi_two:invisibility": true,
+      "foxboi_two:fox_pouch": true,
+      "foxboi_two:fox_pouch_sound": true,
+      "foxboi_two:run": true,
+      "origins:fall_immunity": true,
+      "foxboi_two:speed": true,
+      "foxboi_two:fragilefox": true,
+      "foxboi_two:yummy_berries": true,
+      "foxboi_two:zberry_no_hurt": true,
+      "foxboi_two:armor": true,
+      "foxboi_two:paws": true,
+      "foxboi_two:phase_fix": true,
+      "foxboi_two:paws_shield": true,
+      "foxboi_two:hungy": true,
+      "foxboi_two:fox_eyes": true,
+      "foxboi_two:monch": true,
+      "foxboi_two:yum": true
+    },
     "dark_chidori:dark_chidori": {
       "enabled": true,
       "origins:fire_immunity": true,
@@ -619,6 +702,32 @@
       "dark_chidori:inventory_dark_chidori": true,
       "dark_chidori:particle_dark_chidori": true,
       "dark_chidori:ember_sleep_dark_chidori": true
+    },
+    "pardalis:pardalis": {
+      "enabled": true,
+      "pardalis:credit": true,
+      "pardalis:slide": true,
+      "pardalis:double": true,
+      "pardalis:leap": true,
+      "pardalis:run": true,
+      "pardalis:jump": true,
+      "pardalis:purr": true,
+      "pardalis:felinus": true,
+      "pardalis:attributes": true,
+      "pardalis:respawn": true,
+      "pardalis:phantom": true,
+      "pardalis:effect": true,
+      "pardalis:nocturnal": true,
+      "pardalis:food": true,
+      "pardalis:meter": true,
+      "pardalis:hidden": true,
+      "pardalis:hidden2": true,
+      "pardalis:hiddenr": true,
+      "pardalis:hiddens": true,
+      "pardalis:overheat": true,
+      "pardalis:swim": true,
+      "pardalis:ocelot": true,
+      "pardalis:noheal": true
     },
     "origins:merling": {
       "enabled": true,
@@ -716,6 +825,7 @@
       "craw:bird": true,
       "craw:cursed": true,
       "craw:flammable": true,
+      "craw:skin": true,
       "craw:water": true,
       "craw:hunter": true,
       "craw:shiny": true,
@@ -751,6 +861,21 @@
       "digs_dnd_origins:elf/wood/elf_weapon_training": true,
       "digs_dnd_origins:elf/wood/fleet_of_foot": true,
       "digs_dnd_origins:elf/wood/mask_of_the_wild": true
+    },
+    "paper:paper": {
+      "enabled": true,
+      "origins:slow_falling": true,
+      "paper:climbing": true,
+      "paper:fall_immunity": true,
+      "paper:six_hearts": true,
+      "paper:elytra": true,
+      "paper:fresh_air": true,
+      "paper:recipe_paper": true,
+      "paper:tiny_paper": true,
+      "paper:paper_bandage": true,
+      "paper:nimble": true,
+      "paper:water_exhaust": true,
+      "paper:starting_gear": true
     }
   }
 }

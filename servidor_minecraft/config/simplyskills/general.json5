@@ -35,6 +35,6 @@
 	"outerLineG": 0.148,
 	"outerLineB": 0.132,
 	"outerLineA": 1.0,
-	"signatureHudX": 0,
+	"signatureHudX": 50,
 	"signatureHudY": 0
 }

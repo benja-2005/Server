@@ -4,5 +4,10 @@
 	// The opened inventory's sort button will not be visible, only the player's when this inventory is opened
 	"doNotSortList": [],
 	// Neither the opened inventory, nor your player inventory will be sortable when this inventory is opened
-	"hideSortBtnsList": []
+	"hideSortBtnsList": [
+		"amethyst_imbuement:disenchanting_table",
+		"spell_engine:spell_binding",
+		"amethyst_imbuement:imbuing_table",
+		"archon:scripture_table"
+	]
 }
