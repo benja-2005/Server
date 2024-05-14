@@ -428,6 +428,12 @@
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
 						Books = 0
+						#When enabled, claimed chunk protection makes an exception for interaction with the following items: minecraft:fishing_rod.
+						#
+						#1) Party - players or entities owned by players in the same party as you.
+						#2) Allies - players or entities owned by players in parties that are allied by yours.
+						#3) Every - all players/entities.
+						Fishing_Rod = 0
 		[playerConfig.claims.forceload]
 			#When enabled, the chunks you have marked for forceloading are forceloaded.
 			#If the forceload limit has changed and you have more chunks marked than the new limit, then some of the chunks won't be forceloaded. Unmark any chunks until you are within the limit to ensure that all marked chunks are forceloaded.
